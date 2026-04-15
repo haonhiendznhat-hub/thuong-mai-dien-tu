@@ -37,26 +37,22 @@ CREATE TABLE `categories` (
 --
 
 INSERT INTO `categories` (`category_id`, `category_name`) VALUES
-(1, 'Điện thoại'),
-(2, 'Máy tính'),
-(3, 'Loa'),
-(4, 'Chuột'),
-(5, 'Bàn phím'),
-(6, 'Màn hình'),
-(7, 'Tai nghe'),
-(8, 'Sạc dự phòng'),
-(9, 'Cáp sạc'),
-(10, 'Đồng hồ'),
-(11, 'Laptop'),
-(12, 'Smartphone'),
-(13, 'Tablet'),
-(14, 'Phụ kiện'),
-(15, 'Máy ảnh'),
-(16, 'Âm thanh'),
-(17, 'Đồng hồ'),
-(18, 'Tủ lạnh'),
-(19, 'Máy giặt'),
-(20, 'Điều hòa');
+(1, 'Điện thoại & Smartphone'),
+(2, 'Laptop & Máy tính'),
+(3, 'Máy tính bảng (Tablet)'),
+(4, 'Máy ảnh & Ống kính'),
+(5, 'Thiết bị âm thanh (Loa, Tai nghe)'),
+(6, 'Đồng hồ thông minh'),
+(7, 'Màn hình máy tính'),
+(8, 'Bàn phím & Chuột'),
+(9, 'Phụ kiện (Sạc, Cáp, Pin)'),
+(10, 'Tủ lạnh'),
+(11, 'Máy giặt'),
+(12, 'Điều hòa & Máy lạnh'),
+(13, 'Gia dụng nhà bếp'),
+(14, 'Thiết bị thông minh (Smart Home)'),
+(15, 'Linh kiện máy tính');
+
 
 -- --------------------------------------------------------
 
